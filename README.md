@@ -6,7 +6,7 @@
 
 
 > What is a MyEtherBank Vault? It is a ethereum smart contract that provided a decetralized storage vault for Ethere and ERC20 tokens.
-Main Features: Run on the ethereum blockchain
+\Main Features: Run on the ethereum blockchain
 Note:
 
 ## Table of Contents
