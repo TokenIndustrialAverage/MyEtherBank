@@ -18,5 +18,3 @@ Note:
 
 ## white-paper
 MyEtherBank Vault whitepaper
-
-# MyEtherBank
